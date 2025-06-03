@@ -6,3 +6,6 @@ nltk
 scikit-learn
 jupyter
 textblob
+ta-lib
+yfinance
+pynance
